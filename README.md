@@ -1,5 +1,7 @@
 ### Hi there 👋
-<h1>I'M WELKER</h1>
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.uowmkdu.edu.my%2Fblog%2Fsoftware-engineer-vs-software-developer%2F&psig=AOvVaw3WrBAtHGtEMNHmeUZlZ2em&ust=1671158914028000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCz1qTO-vsCFQAAAAAdAAAAABAD">
+
 <!--
 **WelkerAcero/WelkerAcero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
