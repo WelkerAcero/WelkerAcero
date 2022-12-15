@@ -3,20 +3,14 @@
 <div class="header-content">
   
   <div class="text-content">
-    <h2 style="color:red">I'm a Software engineer</h2>
+    <h2>I'm a Software engineer</h2>
   </div>
-  
+  🔭 I’m currently working on Laravel
   <div class="img-content">
     <img src="https://www.uowmkdu.edu.my/wp-content/uploads/2022/05/radowan-nakif-rehan-cYyqhdbJ9TI-unsplash-scaled.jpg" width="450px" height="300px">
   </div>
 </div>
 
-<style>
-  .header-content{
-    display:flex;
-    justify-content:center;
-  }
-</style>
 
 <!--
 **WelkerAcero/WelkerAcero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
