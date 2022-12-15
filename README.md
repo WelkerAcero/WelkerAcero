@@ -1,6 +1,15 @@
 ### Hi there, I'm Welker José Pérez Acero👋
 
-<img src="https://www.uowmkdu.edu.my/wp-content/uploads/2022/05/radowan-nakif-rehan-cYyqhdbJ9TI-unsplash-scaled.jpg" width="450px" height="300px">
+<div class="header-content">
+  
+  <div class="text-content">
+    <h2 style="color:yellow">I'm a Software engineer</h2>
+  </div>
+  
+  <div class="img-content">
+    <img src="https://www.uowmkdu.edu.my/wp-content/uploads/2022/05/radowan-nakif-rehan-cYyqhdbJ9TI-unsplash-scaled.jpg" width="450px" height="300px">
+  </div>
+</div>
 
 <!--
 **WelkerAcero/WelkerAcero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
