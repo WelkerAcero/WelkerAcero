@@ -3,7 +3,7 @@
 <div class="header-content">
   
   <div class="text-content">
-    <h2 style="color:yellow">I'm a Software engineer</h2>
+    <h2 style="color:red">I'm a Software engineer</h2>
   </div>
   
   <div class="img-content">
