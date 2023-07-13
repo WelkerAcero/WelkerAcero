@@ -9,7 +9,23 @@
         initiative and punctuality.
     </h4>
   </div>
-  🔭 I’m currently working on Laravel
+  🔭 Experience working on the following languages: 
+      -PHP
+      -JavaScript
+      -TypeScript
+      
+  🔭 Experience working on the following Frameworks:
+      -Laravel
+      -NodeJs
+      -VueJS
+
+    ✨ English level certificate B1 at Praxis English Academy
+      
+  🌱 I’m currently learning: <b>Docker</b>
+  📫 How to reach me: 
+       <b>Email: </b> welkerperez97@gmail.com
+       <b>Cellphone: </b> +57 3213655354
+       <b> Linkding: </b> www.linkedin.com/in/welker-jose-pérez-acero
   <div class="img-content">
     
   </div>
