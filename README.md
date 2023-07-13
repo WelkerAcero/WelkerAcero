@@ -20,7 +20,7 @@
       <br>
   🔭 Experience working on the following Frameworks:
   <ul>
-      <li>-Laravel</li>
+      <li>Laravel</li>
        <li>NodeJs</li>
        <li>VueJS</li>
        <li>ExpressJs</li>
@@ -35,7 +35,7 @@
   <br>
     ✨ English level certificate B1 at Praxis English Academy
   <br>
-  🌱 I’m currently learning: <b>Docker</b> <br>
+  🌱 I’m currently learning: <b>Docker</b> <br><br>
   📫 How to reach me: 
     <ul>
       <li> <b>Email: </b> welkerperez97@gmail.com </li>
