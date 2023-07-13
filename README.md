@@ -15,6 +15,7 @@
     <li>PHP</li>
      <li>JavaScript</li>
      <li>TypeScript</li>
+     <li>Python</li>
   </ul>
       <br>
   🔭 Experience working on the following Frameworks:
@@ -22,6 +23,14 @@
       <li>-Laravel</li>
        <li>NodeJs</li>
        <li>VueJS</li>
+       <li>ExpressJs</li>
+  </ul>
+
+  🔭 Experience working on the following Database Management:
+  <ul>
+      <li>MYSQL</li>
+       <li>POSTGRESQL</li>
+       <li>MongoDB</li>
   </ul>
   <br>
     ✨ English level certificate B1 at Praxis English Academy
