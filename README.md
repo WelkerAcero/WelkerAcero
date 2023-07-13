@@ -3,15 +3,15 @@
 <div class="header-content">
   
   <div class="text-content">
-    <h2>I’m a person who have 3 years of experience creating software 
+    <h4>I’m a person who have 3 years of experience creating software 
         solutions as a freelancer with a wide knowledge working with 
         development teams. I consider myself a responsible, creative person, with 
-        initiative and punctuality
-    </h2>
+        initiative and punctuality.
+    </h4>
   </div>
   🔭 I’m currently working on Laravel
   <div class="img-content">
-    <img src="https://www.uowmkdu.edu.my/wp-content/uploads/2022/05/radowan-nakif-rehan-cYyqhdbJ9TI-unsplash-scaled.jpg" width="450px" height="300px">
+    
   </div>
 </div>
 
