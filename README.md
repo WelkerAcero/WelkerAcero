@@ -3,7 +3,11 @@
 <div class="header-content">
   
   <div class="text-content">
-    <h2>I'm a Software engineer</h2>
+    <h2>I’m a person who have 3 years of experience creating software 
+        solutions as a freelancer with a wide knowledge working with 
+        development teams. I consider myself a responsible, creative person, with 
+        initiative and punctuality
+    </h2>
   </div>
   🔭 I’m currently working on Laravel
   <div class="img-content">
