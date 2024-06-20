@@ -3,7 +3,8 @@
 <div class="header-content">
   
   <div class="text-content">
-    <h4>I’m a person who have 3 years of experience creating software 
+    <h4>
+        I have 3 years of experience creating software 
         solutions as a freelancer with a wide knowledge working with 
         development teams. I consider myself a responsible, creative person, with 
         initiative and punctuality.
