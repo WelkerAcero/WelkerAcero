@@ -4,10 +4,18 @@
   
   <div class="text-content">
     <h4>
-        I have 3 years of experience creating software 
-        solutions as a freelancer with a wide knowledge working with 
-        development teams. I consider myself a responsible, creative person, with 
-        initiative and punctuality.
+        Systems Engineer graduated from the
+        Technological Units of Santander in Colombia.
+        I have 3 years of experience in software
+        development. Specialized in web
+        applications and collaborative work in
+        development teams. I stand out for being
+        responsible, creative and proactive,
+        capable of taking on challenges with
+        enthusiasm. Skills in interpersonal
+        relationships, working under pressure,
+        problem solving and effective decision
+        making.
     </h4>
   </div>
   
