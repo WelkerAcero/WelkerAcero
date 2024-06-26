@@ -43,6 +43,11 @@
        <li>API REST FULL</li>
   </ul>
 
+  🔭 Experience working with SCRUM development process using:
+  <ul>
+       <li>Jira Software</li>  
+  </ul>
+  
   🔭 Experience carrying out Software Design Patterns:
   <ul>
        <li>Crational: <br>SINGLETON & BUILDER</br></li>
