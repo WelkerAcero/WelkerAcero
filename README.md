@@ -7,8 +7,8 @@
         System Engineer graduated from
         Unidades Tecnologicas de Santander, Colombia.
         I've acquired 3 years of experience in software
-        development. I have builded web application from scratch
-        for differents scopes. As a Software engineer specialized
+        development. I have builded web applications from scratch
+        for different scopes. As a Software engineer specialized
         in web applications I have worked in collaborative
         development teams. I stand out for being
         responsible, creative and proactive,
