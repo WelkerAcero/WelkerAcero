@@ -29,25 +29,36 @@
       <br>
   🔭 Experience working on the following Frameworks:
   <ul>
-      <li>Laravel</li>
+       <li>Laravel</li>
        <li>NodeJs</li>
        <li>VueJS</li>
        <li>ExpressJs</li>
   </ul>
+  
+  🔭 Experience deploying web application in:
+  <ul>
+       <li>Railway</li>
+       <li>Netlify</li>
+       <li>BLUEHOST</li>
+  </ul>
 
   🔭 Experience working on the following Database Management:
   <ul>
-      <li>MYSQL</li>
+       <li>MYSQL</li>
        <li>POSTGRESQL</li>
        <li>MongoDB</li>
   </ul>
   <br>
-    ✨ English level certificate B1 at Praxis English Academy
+    ✨ English level B1 certificated at Praxis English Academy
   <br>
-  🌱 I’m currently learning: <b>Docker</b> <br><br>
+  <br>
+    ✨ Current english level: B2
+  </br>
+
+  🌱 I’m learning: <b> Advanced Docker processes </b> <br><br>
   📫 How to reach me: 
     <ul>
-      <li> <b>Email: </b> welkerperez97@gmail.com </li>
+       <li> <b>Email: </b> welkerperez97@gmail.com </li>
        <li> <b>Cellphone: </b> +57 3213655354 </li>
        <li> <b> Linkding: </b> www.linkedin.com/in/welker-jose-pérez-acero </li>
   </ul>
