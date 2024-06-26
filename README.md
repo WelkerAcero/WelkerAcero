@@ -4,11 +4,12 @@
   
   <div class="text-content">
     <h4>
-        Systems Engineer graduated from the
-        Technological Units of Santander in Colombia.
-        I have 3 years of experience in software
-        development. Specialized in web
-        applications and collaborative work in
+        System Engineer graduated from
+        Unidades Tecnologicas de Santander, Colombia.
+        I've acquired 3 years of experience in software
+        development. I have builded web application from scratch
+        for differents scopes. As a Software engineer specialized
+        in web applications I have worked in collaborative
         development teams. I stand out for being
         responsible, creative and proactive,
         capable of taking on challenges with
