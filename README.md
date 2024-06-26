@@ -35,6 +35,18 @@
        <li>VueJS</li>
        <li>ExpressJs</li>
   </ul>
+
+  🔭 Experience working with:
+  <ul>
+       <li>API</li>
+       <li>API REST</li>
+       <li>API REST FULL</li>
+  </ul>
+
+  🔭 Experience carrying out Software Design Patterns:
+  <ul>
+       <li>Crational: <br>SINGLETON & BUILDER</br></li>
+  </ul>
   
   🔭 Experience deploying web application in:
   <ul>
@@ -48,6 +60,22 @@
        <li>MYSQL</li>
        <li>POSTGRESQL</li>
        <li>MongoDB</li>
+  </ul>
+
+🔭 As part of development process I've acquired Database Modeling knowledgement
+   using different tools as support.
+  <ul>
+       <li>StarUML</li>
+       <li>Dia</li>
+  </ul>
+
+  🔭 Experience creating UML diagrams for app documentation
+  <ul>
+       <li>Use case diagrams</li>
+       <li>Class diagrams</li>
+       <li>Deployment diagrams</li>
+       <li>Communication diagrams</li>
+       <li>Sequence diagrams</li>
   </ul>
   <br>
     ✨ English level B1 certificated at Praxis English Academy
